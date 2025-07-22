@@ -59,7 +59,3 @@
 I'm addicted to automating everything and breaking production (just to fix it better 😉)
 
 ---
-
-> ✨ Customize the username in the image URLs to match your GitHub profile (`prajwalbambulkar` or whatever it is)
-
-Would you like me to help you **upload it to your GitHub profile repo** (`prajwalbambulkar/prajwalbambulkar`)?
